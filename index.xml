@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Fernandez</title>
+    <link>https://hd-fernandez.github.io/</link>
+    <description>Recent content on Henry Fernandez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 May 2019 09:34:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://hd-fernandez.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poker in Python</title>
+      <link>https://hd-fernandez.github.io/posts/poker-in-python/</link>
+      <pubDate>Thu, 30 May 2019 09:34:33 +0100</pubDate>
+      
+      <guid>https://hd-fernandez.github.io/posts/poker-in-python/</guid>
+      <description>The poker game begins by prompting the user to input how many players will participate in the game. It then runs a loop that asks the user to enter the names of the players and adds these names to a list. A ard class is created that specify the card&amp;rsquo;s rank and suit. Another repr method helps format how the cards are presented. After a deck is created and cards are assigned to users, the game runs and the player with the highest value card wins.</description>
+    </item>
+    
+    <item>
+      <title>Hello with Henry</title>
+      <link>https://hd-fernandez.github.io/posts/hello/</link>
+      <pubDate>Wed, 29 May 2019 11:36:31 +0100</pubDate>
+      
+      <guid>https://hd-fernandez.github.io/posts/hello/</guid>
+      <description>Hello, this is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
